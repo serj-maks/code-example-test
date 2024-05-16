@@ -1,4 +1,5 @@
 ```java
+// source: ilya-java-mentoring-io-6/.../task4/service/FileSerivce.java
 private final File FILE = new File("src/main/resources/files_for_comparing");
 
 // after refactoring

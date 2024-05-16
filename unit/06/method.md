@@ -1,4 +1,5 @@
 ```java
+// source: ilya-java-mentoring-streams-5
 public static List<String> amountMoneyBelowMin(int min, List<Client> clients) {
     return clients.stream()
             .map(client -> client.getAccounts())

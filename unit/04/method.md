@@ -1,4 +1,5 @@
 ```java
+// source: ilya-java-mentoring-func-programming-4
 public Map<Boolean, List<E>> partition(Predicate<E> predicate) {
     List<E> listTrue = new ArrayList<>();
     List<E> listFalse = new ArrayList<>();
